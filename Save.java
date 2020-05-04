@@ -1,3 +1,3 @@
-public void save(){
-	return save;
+public void update(){
+	return update;
 }
